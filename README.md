@@ -1,6 +1,6 @@
-# 🤖 Introduction to Machine Learning Labs (DS3010)
+# Introduction to Machine Learning Labs (DS3010)
 
-### 📘 Course Overview
+### Course Overview
 A comprehensive, hands-on journey through **core Machine Learning concepts**, focused on both **theory and implementation** using Python and scikit-learn.  
 Each lab emphasizes coding from scratch, visualization, and model evaluation to build strong practical understanding.
 
@@ -102,7 +102,7 @@ Every lab reinforced real-world implementation skills and algorithmic intuition.
 ---
 
 **Contact:**  
-[parv4careers@gmail.com]  
+[Gmail][parv4careers@gmail.com]  
 [LinkedIn](https://www.linkedin.com/in/parvptl/) | [GitHub](https://github.com/Parvptl)  
 
 *"Building intelligence, one lab at a time."*
