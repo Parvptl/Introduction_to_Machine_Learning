@@ -102,7 +102,7 @@ Every lab reinforced real-world implementation skills and algorithmic intuition.
 ---
 
 **Contact:**  
-[Gmail][parv4careers@gmail.com]  
+[parv4careers@gmail.com](mailto:parv4careers@gmail.com) 
 [LinkedIn](https://www.linkedin.com/in/parvptl/) | [GitHub](https://github.com/Parvptl)  
 
 *"Building intelligence, one lab at a time."*
