@@ -1,15 +1,67 @@
-# Byte-compiled / cache
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
 
-# Virtual environment
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Environment and virtual envs
+.env/
+.venv/
+env/
 venv/
-.env
+ENV/
+*.env
+*.venv
 
-# Logs
-*.log
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.code-workspace
 
-# OS files
+# Mac / Windows system files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Compiled C extensions
+*.so
+
+# Build folders
+build/
+dist/
+*.egg-info/
+
+# Data or model files (optional)
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+*.h5
+*.json
+*.zip
+*.gz
+*.tar
+*.npz
+*.npy
+
+# Ignore large datasets (if uploaded)
+datasets/
+data/
+output/
+results/
+models/
+plots/
+
+# Jupyter Lab metadata
+.lab/
+.jupyter/lab/workspaces/
