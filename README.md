@@ -159,9 +159,9 @@ This course bridges **mathematical intuition** and **computational machine learn
 
 ## 📬 **Contact**
 
-📧 **Email:** [parv4careers@gmail.com](mailto:parvpatel.data@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/parvptl](https://linkedin.com/in/parvpatel-data)
-📂 **GitHub:** [github.com/Parvptl](https://github.com/Parvptl)
+📧 **Email:** : [parv4careers@gmail.com](mailto:parvpatel.data@gmail.com)
+💼 **LinkedIn:** : [linkedin.com/in/parvptl](https://linkedin.com/in/parvpatel-data)
+📂 **GitHub:** : [github.com/Parvptl](https://github.com/Parvptl)
 
 
 ---
